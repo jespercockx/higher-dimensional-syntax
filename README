@@ -1,0 +1,1 @@
+Some experiments with rewrite rules in Agda to make any proof of `f₁ ≡ f₂` behave like its own congruence `x₁ ≡ x₂ → f x₁ ≡ f x₂`. This is heavily based on ideas from OTT. Not yet everything works like I'd like it to.
